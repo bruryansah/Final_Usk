@@ -22,7 +22,10 @@ Aplikasi e-commerce berbasis <b>Laravel</b> & <b>Filament Admin</b>
 Aplikasi ini merupakan sistem toko online yang memungkinkan pengelolaan produk, keranjang belanja, dan proses checkout dengan pengurangan stok otomatis.
 
 ---
+## Preview Aplikasi
+![Preview Aplikasi](final.png)
 
+---
 ## 🚀 Fitur Utama
 
 ✅ Manajemen Produk  
